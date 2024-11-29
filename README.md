@@ -1,2 +1,2 @@
-# mechsite
-Github Test Site
+# MechSoc UTS
+Welcome to the home of MechSoc!
