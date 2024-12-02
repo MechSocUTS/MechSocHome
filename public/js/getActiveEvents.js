@@ -41,6 +41,8 @@ function makeDatePrettier(date) {
 fetch('/api/data')
     .then(response => response.json())
     .then(data => {
+        console.log(data);
+
         const list = document.getElementById('eventList');
         list.replaceChildren();
         
