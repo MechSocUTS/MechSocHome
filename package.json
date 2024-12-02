@@ -1,0 +1,23 @@
+{
+  "name": "mechsoc-home",
+  "version": "0.0.1",
+  "description": "Homepage for MechSocUTS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MechSocUTS/MechSocHome.git"
+  },
+  "author": "jl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MechSocUTS/MechSocHome/issues"
+  },
+  "homepage": "https://github.com/MechSocUTS/MechSocHome#readme",
+  "dependencies": {
+    "airtable": "^0.12.2",
+    "express": "^4.21.1"
+  }
+}
