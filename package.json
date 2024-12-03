@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/MechSocUTS/MechSocHome#readme",
   "dependencies": {
+    "@netlify/functions": "^2.8.2",
+    "@types/express": "^5.0.0",
     "airtable": "^0.12.2",
-    "express": "^4.21.1"
+    "express": "^4.21.1",
+    "serverless-http": "^3.2.0"
   }
 }
